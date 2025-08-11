@@ -11,10 +11,11 @@
    #step
   ]
 }
-
 #PseudoCode(algorithm:"Knapsack",
   steps: (
-    "hi","hey","herro"
+    "hi",
+    "hey",
+    "herro"
   )
 )
 
@@ -22,7 +23,6 @@
   number 
   body
 }
-
 #Question(number: "1")[
   How many ducks is too many ducks?
 ]
@@ -32,7 +32,11 @@
 == Header 2
 === Header 3
 
+#let Math() = {}
+
 $ x = 33 + 2 $
+
+#let Code() = {}
 
 ```
 int main(){
